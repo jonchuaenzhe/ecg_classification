@@ -1,4 +1,4 @@
-# ecg_classification
+# ECG Classification CNN Model
 
 This project uses a CNN to predict whether an ECG signal is normal or abnormal from a 2D plot of the ECG. The dataset was obtained from https://www.kaggle.com/shayanfazeli/heartbeat
 
