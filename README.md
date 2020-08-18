@@ -1,2 +1,5 @@
 # ecg_classification
-Classify whether ECG waveforms are normal or abnormal
+
+This project uses a CNN to predict whether an ECG signal is normal or abnormal from a 2D plot of the ECG. The dataset was obtained from https://www.kaggle.com/shayanfazeli/heartbeat
+
+As it was done on google colab, I mounted my drive onto the notebook. To run this project locally, simply change the root path and save the data files accordingly
